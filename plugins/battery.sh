@@ -28,6 +28,6 @@ fi
 # The item invoking this script (name $NAME) will get its icon and label
 # updated with the current battery status
 bottom_bar --set "$NAME" icon="$ICON" label="${PERCENTAGE}%" \
-                         label.color=0xff01e700\
-                         icon.color=0xff01e700
+                         icon.color=0xff01e700\
+                         label.color=0xff01e700
 
