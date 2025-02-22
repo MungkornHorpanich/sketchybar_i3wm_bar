@@ -39,13 +39,6 @@ Inspired by macOS, optimized for **i3wm** and **AerospaceWM**!
    - `xprop`
    - `xsetroot`
 
-   On Debian-based systems, you can install the dependencies with:
-
-   ```sh
-   sudo apt update
-   sudo apt install jq x11-utils x11-xserver-utils
-   ```
-
 3. **Copy the configuration file:**
 
    ```sh
