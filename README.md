@@ -97,5 +97,3 @@ To customize the bar:
 ---
 
 For more information and updates, visit the [GitHub repository](https://github.com/MungkornHorpanich/sketchybar_i3wm_bar).
-
-*Note: Replace `example1.png` and `example2.png` with the actual paths to your screenshot images in the repository.*
